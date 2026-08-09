@@ -16,7 +16,7 @@ function Hero() {
          <div className="row p-5 mt-5 border-top text-muted fs-6"
          style={{ lineHeight:"1.8", fontSize: "1.2em" 
          }}>
-            <div className="col-6">
+            <div className="col-6 p-5">
                 <p>
             We kick-started operations on the 15th of August, 2010 with the goal
             of breaking all barriers that traders and investors face in India in
@@ -37,19 +37,19 @@ function Hero() {
 
         <div className="col-6 p-5 ">
           <p>
-            In addition, we run a number of popular open online educational and
-            community initiatives to empower retail traders and investors.
+            In addition, we run a number of popular open online <br/> educational and
+            community initiatives to empower retail <br/>traders and investors.
           </p>
           <p>
             <a href="" style={{ textDecoration: "none" }}>
               Rainmatter
             </a>
-            , our fintech fund and incubator, has invested in several fintech
-            startups with the goal of growing the Indian capital markets.
+            , our fintech fund and incubator, has invested in <br/>several fintech
+            startups with the goal of  growing the Indian<br/>  capital markets.
           </p>
           <p>
-            And yet, we are always up to something new every day. Catch up on
-            the latest updates on our blog or see what the media is saying about
+            And yet, we are always up to something  new every day. <br/>Catch up on
+            the latest updates on our blog or see what the <br/> media is saying about
             us.
           </p>
           </div>

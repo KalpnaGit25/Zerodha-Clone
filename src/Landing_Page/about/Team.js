@@ -6,7 +6,7 @@ function Team() {
      
       
      <div className="container">
-        <div className="row p-5 mt-5 mb-5 border-top">
+        <div className="row p-5 mt-5  border-top">
             <h1 className=" text-center  ">
                 People
             </h1>
@@ -24,22 +24,17 @@ function Team() {
         </div>
 
         <div className="col-6 p-5 ">
-          <p>
-            In addition, we run a number of popular open online educational and
-            community initiatives to empower retail traders and investors.
-          </p>
-          <p>
-            <a href="" style={{ textDecoration: "none" }}>
-              Rainmatter
-            </a>
-            , our fintech fund and incubator, has invested in several fintech
-            startups with the goal of growing the Indian capital markets.
-          </p>
-          <p>
-            And yet, we are always up to something new every day. Catch up on
-            the latest updates on our blog or see what the media is saying about
-            us.
-          </p>
+         <p>Nitin bootstrapped and founded Zerodha in 2018 to overcome the hurdles
+          he faced during his decide long stint as a trader. Today,
+          Zerodha has changed the landscape of the Indian broking industry.
+         </p>
+         <p>He is a member of SEBI Secondary market Advisory Committee (SMAC) and
+          the Market Data Advisory <p>Commitee (MDAC)</p>
+         </p>
+         <p>Playing basketball is his zen.</p>
+         <p>Connect  on <a href=""> Homepage</a>
+                    /  <a href=""> TradingQ&A</a>
+                     /   <a href=""> Twitter </a> </p>
           </div>
 
             
