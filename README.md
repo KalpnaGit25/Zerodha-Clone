@@ -1,6 +1,6 @@
 # Zerodha Clone
 
-A full-stack **Zerodha Clone** built with **React**, inspired by the Zerodha trading platform. The project currently features a responsive frontend using **Bootstrap** and **Font Awesome**, while the backend is under development.
+A full-stack **Zerodha Clone** built with **React**, actually its a react based project, inspired by the Zerodha trading platform. The project currently features a responsive frontend using **Bootstrap** and **Font Awesome**, while the backend is under development.
 
 ## Features
 
