@@ -1,28 +1,37 @@
-# Zerodha Clone
+Zerodha Clone
 
-A full-stack **Zerodha Clone** built with **React**, actually its a react based project, inspired by the Zerodha trading platform. The project currently features a responsive frontend using **Bootstrap** and **Font Awesome**, while the backend is under development.
+A React-based Zerodha Clone inspired by the Zerodha trading platform. This project recreates a modern and responsive trading platform interface using React, Bootstrap, and Font Awesome. The frontend is complete, while backend development is currently underway.
 
-## Features
+Features
 
-- Responsive React-based UI
-- Bootstrap-powered layout and styling
-- Font Awesome icons
-- Reusable React components
-- Clean and modern interface
-- Backend integration (In Progress)
+Responsive and user-friendly React interface
 
-## Tech Stack
+Modern UI built with Bootstrap
 
-- React
-- JavaScript
-- Bootstrap
-- Font Awesome
-- Node.js & Express.js (In Progress)
+Font Awesome icons for enhanced visuals
 
-## Project Status
+Reusable and modular React components
 
-Frontend is completed. Backend development is currently in progress.
+Clean and organized project structure
 
-## Author
+Backend integration (Work in Progress)
 
-**Kalpna**
+Tech Stack
+
+React
+
+JavaScript
+
+Bootstrap
+
+Font Awesome
+
+Node.js & Express.js (Backend – In Progress)
+
+Project Status
+
+The frontend is fully completed, and the backend is currently being developed to add authentication, APIs, and dynamic functionality.
+
+Author
+
+Kalpna
